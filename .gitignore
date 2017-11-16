@@ -1,0 +1,34 @@
+#-------- IntelliJ project files ----#
+/bin/
+/build/
+.idea/
+*.ipr
+*.iml
+*.iws
+# temp ignore
+logs/
+*.log
+*.cache
+*.diff
+*.patch
+*.tmp
+
+#-------- Java template --------#
+# Compiled class file
+*.class
+*.jar
+*.war
+*.zip
+*.tar.gz
+*.rar
+
+# eclipse ignore
+/.settings/
+.project
+.classpath
+.mymetadata
+
+# system ignore
+.DS_Store
+Thumbs.db
+/target/
